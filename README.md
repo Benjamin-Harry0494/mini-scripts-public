@@ -1,2 +1,2 @@
 # mini-scripts-public
-Mini Scripts
+Contains various scipts used to optimise specific workflows at a professional level
